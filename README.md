@@ -2,7 +2,7 @@
 
 ## 👋 Présentation
 
-- Je suis un développeur passionné avec une expérience de plusieurs années dans la programmation. J'ai travaillait sur une variété de projets, allant du contenu pour du jeu vidéo telle que sur Garry's Mod où récemment Nanos World, aux sites internet et aux applications mobile.
+- Je suis un développeur passionné et de métier avec une expérience de plusieurs années dans la programmation. J'ai travaillait sur une variété de projets, allant du contenu pour du jeu vidéo telle que sur Garry's Mod où récemment Nanos World, aux sites internet et aux applications mobile. Je suis actuellement développeur Fullstack chez [ATA-Electronics](http://ata-electronics.com).
 
 ## 👩‍💻 Mes compétences
 
