@@ -13,8 +13,6 @@
 
 ## 📄 Mes projets
 
-[SOON] [MetroRP - NanosWorld](https://nanos.world/)
-
 ## 🎫 Comment me contacter
 
 ### Plusieurs moyens de me contacter sont disponibles:
